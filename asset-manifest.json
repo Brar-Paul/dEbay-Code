@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dEbay-Code/static/css/main.23897544.chunk.css",
+    "main.js": "/dEbay-Code/static/js/main.d420076f.chunk.js",
+    "main.js.map": "/dEbay-Code/static/js/main.d420076f.chunk.js.map",
+    "runtime-main.js": "/dEbay-Code/static/js/runtime-main.a0e8f2cc.js",
+    "runtime-main.js.map": "/dEbay-Code/static/js/runtime-main.a0e8f2cc.js.map",
+    "static/css/2.171a7357.chunk.css": "/dEbay-Code/static/css/2.171a7357.chunk.css",
+    "static/js/2.dbfdcde9.chunk.js": "/dEbay-Code/static/js/2.dbfdcde9.chunk.js",
+    "static/js/2.dbfdcde9.chunk.js.map": "/dEbay-Code/static/js/2.dbfdcde9.chunk.js.map",
+    "index.html": "/dEbay-Code/index.html",
+    "precache-manifest.468947f0dd08a4e8025afc982f1b6e78.js": "/dEbay-Code/precache-manifest.468947f0dd08a4e8025afc982f1b6e78.js",
+    "service-worker.js": "/dEbay-Code/service-worker.js",
+    "static/css/2.171a7357.chunk.css.map": "/dEbay-Code/static/css/2.171a7357.chunk.css.map",
+    "static/css/main.23897544.chunk.css.map": "/dEbay-Code/static/css/main.23897544.chunk.css.map",
+    "static/js/2.dbfdcde9.chunk.js.LICENSE.txt": "/dEbay-Code/static/js/2.dbfdcde9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e8f2cc.js",
+    "static/css/2.171a7357.chunk.css",
+    "static/js/2.dbfdcde9.chunk.js",
+    "static/css/main.23897544.chunk.css",
+    "static/js/main.d420076f.chunk.js"
+  ]
+}
